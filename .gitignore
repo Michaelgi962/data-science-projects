@@ -2,8 +2,10 @@
 
 ## yolo.h5 can be downloaded from sourceforge (url: https://sourceforge.net/projects/data-science-projects-repo/files/Computer-Vision-with-Python_06-Deep-Learning-Computer-Vision_06-YOLOv3_data/yolo.h5/download)
 ## yolo.h5 should be placed in directory: "Computer-Vision-with-Python/06-Deep-Learning-Computer-Vision/06-YOLO"
+
 Computer-Vision-with-Python/06-Deep-Learning-Computer-Vision/06-YOLOv3/data/yolo.h5
 
 ## this jupyter notebook will remain in its compressed zip form on the remote github repository
 ## to run, unzip this file in local repo in the zip file directory : "monster_scraper" 
+
 monster_scraper/MonsterScraper_ForEveryState_Refactored.ipynb
